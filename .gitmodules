@@ -1,0 +1,9 @@
+[submodule "rng"]
+	path = rng
+	url = git@github.com:frostbaum/rng.git
+[submodule "3d-vectorOPs"]
+	path = 3d-vectorOPs
+	url = git@github.com:frostbaum/3d-vectorOPs.git
+[submodule "structure"]
+	path = structure
+	url = git@github.com:frostbaum/structure.git
