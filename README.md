@@ -6,4 +6,4 @@ Build (uses gfortran):
 $ make
 
 Use:
-shaker <jobfile>
+shaker \<jobfile\>
